@@ -94,39 +94,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 Smart Irrigation IoT</h3>
+      <h3 align="center">🗺️ Topo X — Landing Page</h3>
       <p align="center">
-        Sistema embarcado autônomo de irrigação para monitoramento em tempo real de umidade do solo, acionamento por relé e display LCD I2C.
+        Landing page institucional desenvolvida para serviços de agrimensura e topografia, com foco em alta performance, design responsivo e conversão de clientes.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-Relay%20%26%20Sensors-orange?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/BielFxB/smart-irrigation">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=smart-irrigation&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚔️ Naval Warfare Simulator</h3>
-      <p align="center">
-        Simulador desktop de batalha naval desenvolvido em Java com interface gráfica e persistência de partidas em banco de dados relacional.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swing-GUI-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQL-Database-4169E1?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/BielFxB/naval-warfare-simulator">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=naval-warfare-simulator&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img
 
 --
 

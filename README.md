@@ -1,5 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20Friol&fontSize=60&animation=fadeIn" width="100%"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=520&lines=Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo;Python+%7C+FastAPI+%7C+CustomTkinter;Automa%C3%A7%C3%A3o%2C+IoT+%26+Bancos+Relacionais;Transformando+l%C3%B3gica+em+sistemas" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -54,6 +58,12 @@
   
   <!-- Linguagens mais usadas -->
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BielFxB&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <br>
+  <!-- Gráfico de Atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BielFxB&theme=tokyo-night&area=true" width="100%" />
 </div>
 
 ---

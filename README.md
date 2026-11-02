@@ -54,8 +54,6 @@
 
 ---
 
----
-
 ### 🚀 Projetos em Destaque
 
 <table>
@@ -72,11 +70,30 @@
         <img src="https://img.shields.io/badge/CustomTkinter-blue?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/BielFxB/GamyCoins">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=GamyCoins&theme=tokyonight" />
+        <a href="https://gamycoins.com.br" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Acessar_Plataforma-gamycoins.com.br-00C781?style=for-the-badge" alt="GamyCoins Web" />
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ Topo X — Landing Page</h3>
+      <p align="center">
+        Landing page institucional desenvolvida para serviços de agrimensura e topografia, com foco em alta performance, design responsivo e conversão de clientes.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://topo-x.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Ver_Site_Online-topo--x.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Topo X Live" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌿 IDVerde</h3>
       <p align="center">
@@ -90,25 +107,6 @@
       <p align="center">
         <a href="https://github.com/BielFxB/IDVerde">
           <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=IDVerde&theme=tokyonight" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ Topo X — Landing Page</h3>
-      <p align="center">
-        Landing page institucional desenvolvida para serviços de agrimensura e topografia, com foco em alta performance, design responsivo e conversão de clientes.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/BielFxB/topo-x">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=topo-x&theme=tokyonight" />
         </a>
       </p>
     </td>

@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Imagem estilizada em Pixel Art retrô (igual ao welcome.png do BrunnerLivio) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=100000000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=780&height=70&lines=OL%C3%81%2C+EU+SOU+O+GABRIEL!" alt="Olá, eu sou o Gabriel!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=500000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=780&height=70&lines=OL%C3%81%2C+EU+SOU+O+GABRIEL!" alt="Olá, eu sou o Gabriel!" />
   
   <br>
   

@@ -97,7 +97,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🌿 IDVerde</h3>
       <p align="center">
-        Módulo de inteligência artificial voltado ao reconhecimento e classificação de espécies vegetais utilizando algoritmos clássicos de machine learning.
+        Módulo de inteligência artificial desenvolvido como projeto de extensão acadêmica para classificação e reconhecimento de espécies da flora local através de modelos de Machine Learning.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -105,15 +105,13 @@
         <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/BielFxB/IDVerde">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=IDVerde&theme=tokyonight" />
-        </a>
+        <img src="https://img.shields.io/badge/🔒_Projeto_Acadêmico-Privado-555555?style=for-the-badge" alt="Projeto Privado" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚔️ Naval Warfare Simulator</h3>
+      <h3 align="center">⚔️ Batalha Naval — LPII</h3>
       <p align="center">
-        Simulador desktop de batalha naval desenvolvido em Java com interface gráfica e persistência de partidas em banco de dados relacional.
+        Jogo completo de Batalha Naval desenvolvido em Java Swing para a disciplina de Linguagem de Programação II, com interface gráfica interativa, controle de turnos e persistência de dados via SQL.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -121,8 +119,8 @@
         <img src="https://img.shields.io/badge/SQL-Database-4169E1?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/BielFxB/naval-warfare-simulator">
-          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=naval-warfare-simulator&theme=tokyonight" />
+        <a href="https://github.com/BielFxB/BatalhaNaval-LPII" target="_blank">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=BatalhaNaval-LPII&theme=tokyonight" alt="Card Batalha Naval" />
         </a>
       </p>
     </td>

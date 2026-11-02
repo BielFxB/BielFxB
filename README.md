@@ -13,7 +13,8 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Ciência da Computação / Tecnologia** na **UFGD**.
+- 🎓 Graduando em **Sistemas de Informação** na **UFGD**.
+- 📍 Dourados, MS — Brasil
 - 💼 Desenvolvedor com foco em **Python (FastAPI, CustomTkinter)**, automação de processos e desenvolvimento de sistemas integrados.
 - ⚙️ Experiência em desenvolvimento de aplicações desktop, APIs REST, integrações com bancos relacionais (**Supabase / PostgreSQL**) e automação com microcontroladores (**ESP8266 / Arduino**).
 - 🚀 Sempre buscando aprimorar arquitetura de software, boas práticas de código e performance.

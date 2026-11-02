@@ -54,6 +54,8 @@
 
 ---
 
+---
+
 ### 🚀 Projetos em Destaque
 
 <table>
@@ -102,7 +104,32 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img
+        <img src="https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/BielFxB/topo-x">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=topo-x&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ Naval Warfare Simulator</h3>
+      <p align="center">
+        Simulador desktop de batalha naval desenvolvido em Java com interface gráfica e persistência de partidas em banco de dados relacional.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-GUI-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL-Database-4169E1?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/BielFxB/naval-warfare-simulator">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=naval-warfare-simulator&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 --
 

@@ -57,7 +57,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <sub>Criado com base no template de <a href="https://github.com/iuricode/readme-template">iuricode</a>.</sub>
-</div>

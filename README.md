@@ -105,18 +105,18 @@
         <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/🔒_Projeto_Acadêmico-Privado-555555?style=for-the-badge" alt="Projeto Privado" />
+        <img src="https://img.shields.io/badge/🔒_Projeto-Privado-555555?style=for-the-badge" alt="Projeto Privado" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚔️ Batalha Naval — LPII</h3>
       <p align="center">
-        Jogo completo de Batalha Naval desenvolvido em Java Swing para a disciplina de Linguagem de Programação II, com interface gráfica interativa, controle de turnos e persistência de dados via SQL.
+        Sistema desktop desenvolvido no âmbito acadêmico de LPII para gerenciamento e registro de confrontos navais, organizando esquadras, navios de guerra com especializações e áreas oceânicas de batalha.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Swing-GUI-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQL-Database-4169E1?style=flat-square" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/BielFxB/BatalhaNaval-LPII" target="_blank">

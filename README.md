@@ -54,6 +54,82 @@
 
 ---
 
+### 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🪙 GamyCoins</h3>
+      <p align="center">
+        Plataforma gamificada de recompensas e engajamento escolar. Desenvolvida com arquitetura multi-tenant, APIs assíncronas e cliente desktop moderno.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/CustomTkinter-blue?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/BielFxB/GamyCoins">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=GamyCoins&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 IDVerde</h3>
+      <p align="center">
+        Módulo de inteligência artificial voltado ao reconhecimento e classificação de espécies vegetais utilizando algoritmos clássicos de machine learning.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-black?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/BielFxB/IDVerde">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=IDVerde&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 Smart Irrigation IoT</h3>
+      <p align="center">
+        Sistema embarcado autônomo de irrigação para monitoramento em tempo real de umidade do solo, acionamento por relé e display LCD I2C.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-Relay%20%26%20Sensors-orange?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/BielFxB/smart-irrigation">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=smart-irrigation&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ Naval Warfare Simulator</h3>
+      <p align="center">
+        Simulador desktop de batalha naval desenvolvido em Java com interface gráfica e persistência de partidas em banco de dados relacional.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-GUI-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL-Database-4169E1?style=flat-square" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/BielFxB/naval-warfare-simulator">
+          <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BielFxB&repo=naval-warfare-simulator&theme=tokyonight" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+--
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">

@@ -66,8 +66,7 @@
 
 <div align="center">
   <br>
-  <!-- Gráfico de Atividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BielFxB&theme=tokyo-night&area=true" width="100%" />
+  <!-- Streak Stats (Substituto funcional para o gráfico quebrado) -->
+  <img src="https://streak-stats.demolab.com/?user=BielFxB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 ---

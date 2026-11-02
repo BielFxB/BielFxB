@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&animation=fadeIn" width="100%"/>
+  <!-- Imagem estilizada em Pixel Art retrô (igual ao welcome.png do BrunnerLivio) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=100000000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=780&height=70&lines=OL%C3%81%2C+EU+SOU+O+GABRIEL!" alt="Olá, eu sou o Gabriel!" />
   
+  <br>
+  
+  <!-- Subtítulo digitado com suas frases originais -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel!;Welcome+to+my+GitHub+Profile!;Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo;Python+%7C+FastAPI+%7C+CustomTkinter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DCFFF&center=true&vCenter=true&width=520&lines=Construindo+solu%C3%A7%C3%B5es+com+c%C3%B3digo;Python+%7C+FastAPI+%7C+CustomTkinter;Automa%C3%A7%C3%A3o%2C+IoT+%26+Bancos+Relacionais;Transformando+l%C3%B3gica+em+sistemas" alt="Typing SVG" />
   </a>
 </div>
 

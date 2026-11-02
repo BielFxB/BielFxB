@@ -49,12 +49,11 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BielFxB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielFxB&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BielFxB&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Estatísticas Gerais -->
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=BielFxB&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  
+  <!-- Linguagens mais usadas -->
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BielFxB&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
